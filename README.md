@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hello! My name is **Karim Naja**, I am from the University of Doha for Science and Technology majoring in Software Engineering & AI.
+I am a Student-Athlete currently playing professional basketball while completing my Bachelors Degree.
+
+Trying to keep up in this world where AI and technology is moving at a rapid pace.
+My hobbies are learning languages, playing sports, trying to take on fitness challenges whenever I can
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,react,java,ts,css,html,js,&perline=4)](https://skillicons.dev)
 <!--
 **KarimNaja/KarimNaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
